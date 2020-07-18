@@ -1,5 +1,3 @@
-![banner](https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233@master/banner.png)
-
 ### Hey 👋🏼, I'm Eltrac Koalar!
 
 <a href="https://twitter.com/Eltrac233">
