@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233@master/banner.png)
 
 ### Hey 👋🏼, I'm Eltrac Koalar!
 
@@ -11,7 +11,7 @@
 <a href="https://t.me/Eltrac">
   <img align="left" alt="Eltrac's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="alipay.jpg">
+<a href="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233@master/alipay.jpg">
   <img align="left" alt="Eltrac's Alipay Payment QRCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/alipay.svg" />
 </a>
 <a href="https://guhub.cn/feed">
