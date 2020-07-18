@@ -1,13 +1,43 @@
-Hi, guys! I'm Eltrac Koalar, who is from China and interested in Front-end, PHP & Unity.
+![banner](banner.png)
 
-🔭 I’m currently working on [Miracles](https://github.com/BigCoke233/miracles) (a nice Typecho theme) and [Artimes](https://github.com/artimes-org).  
-🌱 I’m currently learning PHP, Unity and various stuff.  
-❤️ I'm literally gay, support LGBT rights, also stand with the black community!  
-🔮 I emailed GitHub to suggest a personal about page for every users last year and now it come true!  
-👦 I'm still a student who do some open-source things in free time.
+### Hey 👋🏼, I'm Eltrac Koalar!
 
-Though I'm a Chinese, I actually prefer speaking English on GitHub and am glad to befriend anyone from any coutries.
+<a href="https://twitter.com/Eltrac233">
+  <img align="left" alt="Eltrac Koalar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/Eltrac7/">
+  <img align="left" alt="Eltrac's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://t.me/Eltrac">
+  <img align="left" alt="Eltrac's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="alipay.jpg">
+  <img align="left" alt="Eltrac's Alipay Payment QRCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/alipay.svg" />
+</a>
+<a href="https://guhub.cn/feed">
+  <img align="left" alt="Eltrac's Alipay Payment QRCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
+</a>
 
-If you're glad, check out my [English personal page](https://eltra.cc/), [blog](https://guhub.cn) (in Chinese!) and [Twitter](https://twitter.com/Eltrac233). When necessary, get in touch with me via email, either `hi@guhub.cn` or `eltrac233@gmail.com`.
+<br>
 
-Have a nice day~
+Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to make some useful stuff as a Open-sourcer. I'm still a student 🏫 but love 💖 programing and the Open-Source World. I am working on [Miracles](https://github.com/BigCoke233/miracles), a decent and simple theme for [Typecho](https://typecho.org)(in Chinese) and [Artimes](https://github.com/artimes-org), a organization which is trying to "serverless-izes" everything! Besides doing Open-source things, I enjoy watching American animes, Japanese manga and listening to English hit songs. 🎶
+
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/rick-wink.gif" />
+  
+### Some Personal Information
+
+- 🌱 I'm currently learning Vue, NodeJS & PHP, and wanna get started with Unity
+- 🌏 I speak Chinese on Twitter but English on Instagram & GitHub.
+- ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke. For now I changed it to Koalar because I am as lazy as koalas.
+- 💬 Would like to talk to anyone in English and help you with anything I can resolve.
+- 📚 I keep a blog in Chinese, check [it](https://guhub.cn) out!
+- 🏳️‍🌈 I'm gay, support LGBT+ and also BlackLivesMatter!
+- 📫 Get in touch with me via email:`hi@guhub.cn`, or `eltrac233@gmail.com` as a fallback.
+
+### My GitHub Status
+
+![](https://github-readme-stats.vercel.app/api?username=BigCoke233&show_icons=true&hide_border=true)
+
+---
+
+inspired by [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
