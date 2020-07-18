@@ -28,7 +28,7 @@ Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer �
 
 - 🌱 I'm currently learning Vue, NodeJS & PHP, and wanna get started with Unity
 - 🌏 I speak Chinese on Twitter but English on Instagram & GitHub.
-- ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke. For now I changed it to Koalar because I am as lazy as koalas.
+- ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke.
 - 📚 I keep a blog in Chinese, check [it](https://guhub.cn) out!
 - 🏳️‍🌈 I'm gay, support LGBT+ and also BlackLivesMatter!
 - 📫 Get in touch with me via email:`hi@guhub.cn`, or `eltrac233@gmail.com` as a fallback.
