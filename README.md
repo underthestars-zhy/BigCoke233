@@ -46,13 +46,13 @@ Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer ðŸ
 
 ### What I'm Learning (or wanna learn)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="20" title="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" title="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 
 ### My Life Motto
 
-```
+```javascript
 If(failure==true){
   tears.drop();
   mind.change(courage, confidence);
@@ -63,4 +63,5 @@ If(failure==true){
 ```
 
 
-If you find my stuff helpful, you may consider sponsoring me via [Afdian (for Chinese)](https://afdian.net/@Eltrac) or [Open Collective (as for **Miracles**)](https://opencollective.com/miracles). Have a nice day~
+If you find my stuff helpful, you may consider sponsoring me via [Afdian (for Chinese)](https://afdian.net/@Eltrac) or [Open Collective (as for **Miracles**)](https://opencollective.com/miracles).  
+**Have a nice day~**
