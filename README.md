@@ -23,7 +23,7 @@
 Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to make some useful stuff as a Open-sourcer. I'm still a student 🏫 but love 💖 programing and the Open-Source World. I am working on [Miracles](https://github.com/BigCoke233/miracles), a decent and simple theme for [Typecho](https://typecho.org)(in Chinese) and [Artimes](https://github.com/artimes-org), a organization which is trying to "serverless-izes" everything! Besides doing Open-source things, I enjoy watching American animes, Japanese manga and listening to English hit songs. 🎶
 
   
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/rick-s-wink.gif" />
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/ricks-wink.gif" />
   
 ### Some Personal Information
 
