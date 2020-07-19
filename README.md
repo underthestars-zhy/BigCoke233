@@ -31,6 +31,7 @@ Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer �
 - ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke.
 - 📚 I keep a blog in Chinese, check [it](https://guhub.cn) out!
 - 🏳️‍🌈 I'm gay, support LGBT+ and also BlackLivesMatter!
+- 💬 Why not talk to me on [BigCoke233/issues](https://github.com/BigCoke233/BigCoke233/issues)?
 - 📫 Get in touch with me via email:`hi@guhub.cn`, or `eltrac233@gmail.com` as a fallback.
 
 
