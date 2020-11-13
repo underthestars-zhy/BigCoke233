@@ -20,7 +20,7 @@
 
 <br><br>
 
-Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to create some great stuff as an Open-sourcer. I'm still a student 🏫 but love 💖 programming and the Open-Source World. I am working on [Miracle!](https://github.com/BigCoke233/miracles), a simple but cool theme for [Typecho](https://typecho.org)(in Chinese) and a secret project which is still being developped! Besides doing Open-source things, I enjoy watching American dramas and listening to English hit songs. (also a swiftie) 🎶
+Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to create some great stuff as an Open-sourcer. I'm still a student 🏫 but love 💖 programming and the Open-Source World. I am working on [Miracle!](https://github.com/BigCoke233/miracles), a simple but cool theme for [Typecho](https://typecho.org)(in Chinese) and a project named [Clovet](https://clovet.org/) which is founded for the LGBTs in China! Besides doing Open-source things, I enjoy watching American dramas and listening to English hit songs. (also a swiftie) 🎶
 
   
   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/ricks-wink.gif" />
