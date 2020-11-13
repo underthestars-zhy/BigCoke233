@@ -20,16 +20,16 @@
 
 <br><br>
 
-Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to create some great stuff as an Open-sourcer. I'm still a student 🏫 but love 💖 programing and the Open-Source World. I am working on [Miracle!](https://github.com/BigCoke233/miracles), a simple but cool theme for [Typecho](https://typecho.org)(in Chinese) and a secret project which is still being developped! Besides doing Open-source things, I enjoy watching American dramas, Japanese manga and listening to English hit songs. 🎶
+Hi, nice to meet you guys. I'm Eltrac Koalar, a learning Full Stack Developer 💻 from China, who is trying to create some great stuff as an Open-sourcer. I'm still a student 🏫 but love 💖 programming and the Open-Source World. I am working on [Miracle!](https://github.com/BigCoke233/miracles), a simple but cool theme for [Typecho](https://typecho.org)(in Chinese) and a secret project which is still being developped! Besides doing Open-source things, I enjoy watching American dramas, Japanese manga and listening to English hit songs. 🎶
 
   
   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/ricks-wink.gif" />
   
 ### Some Personal Information
 
-- 😜 Would like to try new stuff and anything intersting.
+- 😜 Would like to try new stuff and anything interesting.
 - 🌏 I speak Chinese on Twitter but English on Instagram & GitHub.
-- ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke(Cola, not drug).
+- ⚡️ Fun-fact: I used BigCoke as my nickname before because I love Coke(Cola, not the drug).
 - 📚 I keep a blog in Chinese, check [it](https://blog.guhub.cn) out!
 - 🏳️‍🌈 I'm gay, support LGBT+ and also BlackLivesMatter!
 - 💬 Why not talk to me on [BigCoke233/issues](https://github.com/BigCoke233/BigCoke233/issues) or via [Telegram](https://t.me/Eltrac)?
