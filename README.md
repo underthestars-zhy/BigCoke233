@@ -66,3 +66,6 @@ if(failure==true){
 
 You can see all the projects I'm currently working on down below, check them out and star if you like.  
 **Have a nice day~**
+
+> README inspiration: [Aman Ansari](https://github.com/aman-atg)
+> Icon images: [simple-icons](http://simpleicons.org/)
