@@ -14,13 +14,12 @@
 <a href="https://twitter.com/Eltrac233" align="center">
   <img align="center" alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a>
-<br>
+<br><br>
   
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=BigCoke233.BigCoke233">
+<a href="https://996.icu/#/en_US" align="center"><img align="center" src="https://img.shields.io/badge/link-996.icu-red"></a>
 
 </h3>
-
-<hr>
 
 Hi, it's [Eltrac Koalar](https://guhub.cn) here, a learning Full Stack Web Developer 🚀 from China.
 
