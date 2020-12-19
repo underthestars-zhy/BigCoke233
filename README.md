@@ -1,22 +1,24 @@
 ![](https://cdn.jsdelivr.net/gh/BigCoke233/BigCoke233/profile-banner.png)
 
-<h3 align="center">Hey there, nice to meet you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-<br>
+<h3 align="center">Hey there, nice to meet you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <br><br>
 <a href="mailto:hi@guhub.cn" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
-</a>
+</a>&nbsp;
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=yj9_OZlOS2IvGA_1BU7Cr-cNawZsAIr0&jump_from=webapi" align="center">
   <img align="center" alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
-</a>
+</a>&nbsp;
 <a href="https://t.me/Eltrac" align="center">
   <img align="center" alt="Contact me via Telegram." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/telegram.svg" />
-</a>
+</a>&nbsp;
 <a href="https://twitter.com/Eltrac233" align="center">
   <img align="center" alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a>
 <br>
+  
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=BigCoke233.BigCoke233">
 
-![](https://visitor-badge.glitch.me/badge?page_id=BigCoke233.BigCoke233)
+</h3>
 
 <hr>
 
